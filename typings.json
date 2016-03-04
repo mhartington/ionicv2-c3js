@@ -1,0 +1,8 @@
+{
+  "dependencies": {},
+  "devDependencies": {},
+  "ambientDependencies": {
+    "chart": "github:DefinitelyTyped/DefinitelyTyped/chartjs/chart.d.ts#9f28e020a04c0b726a5e21c5cf0d1fc91f0de626",
+    "es6-shim": "github:DefinitelyTyped/DefinitelyTyped/es6-shim/es6-shim.d.ts#4de74cb527395c13ba20b438c3a7a419ad931f1c"
+  }
+}
